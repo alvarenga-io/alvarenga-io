@@ -71,7 +71,7 @@ Welcome to my profile! I'm passionate about technology and learning. Currently, 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarenga-io&theme=dark&layout=compact&custom_title=Language&langs_count=9" 
+      src="https://github-readme-stats.vercel1.app/api/top-langs/?username=alvarenga-io&theme=dark&layout=compact&custom_title=Language&langs_count=9" 
   />
 </p>
 
