@@ -69,7 +69,7 @@ Welcome to my profile! I'm passionate about technology and learning. Currently, 
 </p>
 <img 
     align="left"
-    alt="Github Stats
+    alt="Github Stats"
     height="200"
     src="https://github-readme-stats.vercel.app/api?username=alvarenga-io&theme=dark&show_icons=true">
 <!--
