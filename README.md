@@ -34,6 +34,7 @@ Welcome to my profile! I'm passionate about technology and learning. Currently, 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+<!-- 
 <img 
     align="left" 
     alt="TypeScript"
@@ -52,7 +53,7 @@ Welcome to my profile! I'm passionate about technology and learning. Currently, 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-
+-->
 <br/>
 <br/>
 
