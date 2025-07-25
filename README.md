@@ -8,7 +8,7 @@ Welcome to my profile! I'm passionate about technology and learning. Currently, 
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Skills
 
 <img 
     align="left" 
@@ -57,7 +57,7 @@ Welcome to my profile! I'm passionate about technology and learning. Currently, 
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
   <img 
