@@ -1,4 +1,5 @@
-## Hi there 👋
+# Isabella Alvarenga 
+Welcome to my GitHub profile! I'm passionate about technology, learning, and building projects that make a difference. Currently, I'm studying **Computer Science** and working on personal and academic projects involving web development, problem-solving, and sustainability.
 
 <!--
 **alvarenga-io/alvarenga-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
