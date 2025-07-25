@@ -59,19 +59,23 @@ Welcome to my profile! I'm passionate about technology and learning. Currently, 
 
 ### 📊 Statistics
 
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=alvarenga-io&show_icons=true&theme=dark&include_all_commits=true" 
+  />
+  </p>
   <p>
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarenga-io&theme=dark&layout=compact&custom_title=Languages&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarenga-io&theme=dark&layout=compact&custom_title=Language&langs_count=9" 
   />
 </p>
-<img 
-    align="left"
-    alt="Github Stats"
-    height="200"
-    src="https://github-readme-stats.vercel.app/api?username=alvarenga-io&theme=dark&show_icons=true">
 <!--
 **alvarenga-io/alvarenga-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
