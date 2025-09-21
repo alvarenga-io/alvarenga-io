@@ -40,7 +40,7 @@ Welcome to my profile! I'm passionate about technology and learning. Currently, 
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://imgs.search.brave.com/s2rO0xXdn3OjYKqiU-9v_X8M98t87q-og5fCxnEuLDM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/c3ZncmVwby5jb20v/c2hvdy8zNzYzNDQv/cHl0aG9uLnN2Zw" 
+    src="https://imgs.search.brave.com/EkbeOflYmyZclBNfGgWXooe3hfLr_oad6j8b6AAfKDY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/c3ZncmVwby5jb20v/c2hvdy80NTIwOTEv/cHl0aG9uLnN2Zw" 
 />
 <!-- 
 <img 
