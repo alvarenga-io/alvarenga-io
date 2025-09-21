@@ -2,7 +2,7 @@
 
 **`Computer Science Student`**
 
-Welcome to my profile! I'm passionate about technology and learning. Currently, I'm studying Computer Science and working on personal and academic projects, particularly in web development.
+Welcome to my profile! I'm passionate about technology and learning. Currently, I'm studying Computer Science and working on personal and academic projects.
 
 
 
