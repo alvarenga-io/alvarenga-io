@@ -34,6 +34,14 @@ Welcome to my profile! I'm passionate about technology and learning. Currently, 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://imgs.search.brave.com/s2rO0xXdn3OjYKqiU-9v_X8M98t87q-og5fCxnEuLDM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/c3ZncmVwby5jb20v/c2hvdy8zNzYzNDQv/cHl0aG9uLnN2Zw" 
+/>
 <!-- 
 <img 
     align="left" 
