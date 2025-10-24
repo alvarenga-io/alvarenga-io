@@ -8,7 +8,7 @@ Welcome to my profile! I'm passionate about technology and learning. Currently, 
 
 ---
 
-### 🤖 Skills
+### 🤖 My skills
 
 <img 
     align="left" 
