@@ -61,6 +61,8 @@ Welcome to my profile! I'm passionate about data, technology, and learning. Curr
     />
 </p>
 
+<br>
+
 ---
 
 ## Currently Working On
