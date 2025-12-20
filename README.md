@@ -10,7 +10,7 @@ Welcome to my profile! I'm passionate about data, technology, and learning. Curr
 
 ### 🤖 My skills
 
-<div>
+<p>
     <img 
         align="left" 
         alt="Python" 
@@ -59,9 +59,9 @@ Welcome to my profile! I'm passionate about data, technology, and learning. Curr
         style="padding-right: 10px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
     />
-</div>
+</p>
 
-
+---
 
 ## Currently Working On
 
