@@ -65,7 +65,7 @@ Welcome to my profile! I'm passionate about data, technology, and learning. Curr
 
 ---
 
-## Currently Working On
+### Currently Working On
 
 - Building a SQL data cleaning portfolio
 - Improving Excel and Power BI skills for data analysis
