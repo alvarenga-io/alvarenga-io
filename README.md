@@ -60,6 +60,11 @@ Welcome to my profile! I'm passionate about data, technology, and learning. Curr
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+
+## Currently Working On
+
+- Building a SQL data cleaning portfolio
+- Improving Excel and Power BI skills for data analysis
           
 <!-- 
 <img 
@@ -87,13 +92,6 @@ Welcome to my profile! I'm passionate about data, technology, and learning. Curr
 ### 📊 Statistics
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=alvarenga-io&show_icons=true&theme=dark&layout=compact&include_all_commits=true" 
-  /> 
     <img 
       align="left" 
       alt="GitHub Stats" 
