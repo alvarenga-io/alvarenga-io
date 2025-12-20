@@ -10,6 +10,31 @@ Welcome to my profile! I'm passionate about data, technology, and learning. Curr
 
 ### 🤖 My skills
 
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://imgs.search.brave.com/EkbeOflYmyZclBNfGgWXooe3hfLr_oad6j8b6AAfKDY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/c3ZncmVwby5jb20v/c2hvdy80NTIwOTEv/cHl0aG9uLnN2Zw" 
+/>
+
+<img 
+    align="left" 
+    alt="SQL" 
+    title="SQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Excel" 
+    title="Excel"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.simpleicons.org/microsoftexcel/217346" />
 <img 
     align="left" 
     alt="HTML"
@@ -33,23 +58,6 @@ Welcome to my profile! I'm passionate about data, technology, and learning. Curr
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://imgs.search.brave.com/EkbeOflYmyZclBNfGgWXooe3hfLr_oad6j8b6AAfKDY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/c3ZncmVwby5jb20v/c2hvdy80NTIwOTEv/cHl0aG9uLnN2Zw" 
-/>
-
-<img 
-    align="left" 
-    alt="Python" 
-    title="SQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
 />
           
 <!-- 
