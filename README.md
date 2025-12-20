@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Isabella Alvarenga
 
-**`Computer Science Student`**
+**`Data Abalysis`** | **`Computer Science Student`**
 
 Welcome to my profile! I'm passionate about data, technology, and learning. Currently, I'm studying Computer Science and working on personal and academic projects.
 
@@ -8,7 +8,7 @@ Welcome to my profile! I'm passionate about data, technology, and learning. Curr
 
 ---
 
-## 🤖 My skills
+##  My skills
 
 <p>
     <img 
@@ -92,7 +92,7 @@ Welcome to my profile! I'm passionate about data, technology, and learning. Curr
 <br/>
 <br/>
 
-## 📊 Statistics
+##  Statistics
 
 <p>
     <img 
