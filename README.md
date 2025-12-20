@@ -8,7 +8,7 @@ Welcome to my profile! I'm passionate about data, technology, and learning. Curr
 
 ---
 
-### 🤖 My skills
+## 🤖 My skills
 
 <p>
     <img 
@@ -62,9 +62,9 @@ Welcome to my profile! I'm passionate about data, technology, and learning. Curr
 </p>
 
 <br>
+<br>
 
-
-### Currently Working On
+## Currently Working On
 
 - Building a SQL data cleaning portfolio
 - Improving Excel and Power BI skills for data analysis
@@ -92,7 +92,7 @@ Welcome to my profile! I'm passionate about data, technology, and learning. Curr
 <br/>
 <br/>
 
-### 📊 Statistics
+## 📊 Statistics
 
 <p>
     <img 
