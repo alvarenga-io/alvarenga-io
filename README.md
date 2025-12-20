@@ -34,8 +34,8 @@ Welcome to my profile! I'm passionate about data, technology, and learning. Curr
     title="Excel"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://github.com/user-attachments/assets/1a0883d6-5fa0-435c-bd09-e6921d480510" />
-" />
+    src="https://github.com/user-attachments/assets/1a0883d6-5fa0-435c-bd09-e6921d480510" 
+/>
 <img 
     align="left" 
     alt="HTML"
