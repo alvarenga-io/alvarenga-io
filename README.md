@@ -62,7 +62,6 @@ Welcome to my profile! I'm passionate about data, technology, and learning. Curr
 </p>
 
 <br>
-
 ## Currently Working On
 
 - Building a SQL data cleaning portfolio
@@ -88,7 +87,6 @@ Welcome to my profile! I'm passionate about data, technology, and learning. Curr
 />
 
 -->
-<br/>
 <br/>
 
 ##  Statistics
