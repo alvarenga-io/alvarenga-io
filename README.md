@@ -90,6 +90,7 @@ Welcome to my profile! I'm passionate about data, technology, and learning. Curr
 -->
 <br/>
 
+<!--
 ##  Statistics
 
 <p>
@@ -100,7 +101,7 @@ Welcome to my profile! I'm passionate about data, technology, and learning. Curr
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarenga-io&theme=dark&layout=compact&custom_title=Language&langs_count=9" 
   />
 </p>
-
+-->
 <!--
 **alvarenga-io/alvarenga-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
