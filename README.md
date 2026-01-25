@@ -31,7 +31,7 @@ Welcome to my profile! I'm passionate about data, technology, and learning. Curr
         align="left" 
         alt="Power BI" 
         title="Power BI"
-        width="48" height="48"
+        width="30" height="30"
         style="padding-right: 10px;"
         src="https://img.icons8.com/fluency/48/power-bi-2021.png" alt="power-bi-2021"
     />
