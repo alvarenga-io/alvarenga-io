@@ -13,14 +13,6 @@ Welcome to my profile! I'm passionate about data, technology, and learning. Curr
 <p>
     <img 
         align="left" 
-        alt="Python" 
-        title="Python"
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://imgs.search.brave.com/EkbeOflYmyZclBNfGgWXooe3hfLr_oad6j8b6AAfKDY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/c3ZncmVwby5jb20v/c2hvdy80NTIwOTEv/cHl0aG9uLnN2Zw" 
-    />
-    <img 
-        align="left" 
         alt="SQL" 
         title="SQL"
         width="30px" 
@@ -35,30 +27,23 @@ Welcome to my profile! I'm passionate about data, technology, and learning. Curr
         style="padding-right: 10px;" 
         src="https://github.com/user-attachments/assets/1a0883d6-5fa0-435c-bd09-e6921d480510" 
     />
-    <img 
+    <img
         align="left" 
-        alt="HTML"
-        title="HTML" 
+        alt="Power BI" 
+        title="Power BI"
+        width="48" height="48"
+        style="padding-right: 10px;"
+        src="https://img.icons8.com/fluency/48/power-bi-2021.png" alt="power-bi-2021"
+    />
+     <img 
+        align="left" 
+        alt="Python" 
+        title="Python"
         width="30px" 
         style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+        src="https://imgs.search.brave.com/EkbeOflYmyZclBNfGgWXooe3hfLr_oad6j8b6AAfKDY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/c3ZncmVwby5jb20v/c2hvdy80NTIwOTEv/cHl0aG9uLnN2Zw" 
     />
-    <img 
-        align="left" 
-        alt="CSS" 
-        title="CSS"
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-    />
-    <img 
-        align="left" 
-        alt="JavaScript" 
-        title="JavaScript"
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-    />
+  
 </p>
 
 <br>
@@ -85,6 +70,30 @@ Welcome to my profile! I'm passionate about data, technology, and learning. Curr
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+      <img 
+        align="left" 
+        alt="HTML"
+        title="HTML" 
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    />
+    <img 
+        align="left" 
+        alt="CSS" 
+        title="CSS"
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    />
+    <img 
+        align="left" 
+        alt="JavaScript" 
+        title="JavaScript"
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    />
 />
 
 -->
