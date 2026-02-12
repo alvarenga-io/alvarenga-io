@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Isabella Alvarenga
 
-**`Data Analysis`** | **`Computer Science Student`**
+**`Data Analysis`** | **`Information Systems Student`**
 
-Welcome to my profile! I'm passionate about data, technology, and learning. Currently, I'm studying Computer Science and working on personal and academic projects.
+Welcome to my profile! I'm passionate about data, technology, and learning. Currently, I'm studying Information Systems and working on personal and academic projects.
 
 
 
