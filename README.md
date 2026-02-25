@@ -50,8 +50,8 @@ Welcome to my profile! I'm passionate about data, technology, and learning. Curr
 
 ## Currently Working On
 
+- Improving Power BI skills for data analysis
 - Building a data cleaning portfolio
-- Improving Excel and Power BI skills for data analysis
           
 <!-- 
 <img 
