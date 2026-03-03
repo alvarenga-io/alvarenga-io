@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Isabella Alvarenga
 
-**`Data Analysis`** | **`Information Systems Student`**
+**`Data Science`** | **`Information Systems Student`**
 
 Welcome to my profile! I'm passionate about data, technology, and learning. Currently, I'm studying Information Systems and working on personal and academic projects.
 
@@ -21,19 +21,19 @@ Welcome to my profile! I'm passionate about data, technology, and learning. Curr
     />
     <img 
         align="left" 
-        alt="Excel" 
-        title="Excel"
+        alt="Numpy" 
+        title="Numpy"
         width="30px" 
         style="padding-right: 10px;" 
-        src="https://github.com/user-attachments/assets/1a0883d6-5fa0-435c-bd09-e6921d480510" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" 
     />
     <img
         align="left" 
-        alt="Power BI" 
-        title="Power BI"
+        alt="Pandas" 
+        title="Pandas"
         width="30" height="30"
         style="padding-right: 10px;"
-        src="https://img.icons8.com/fluency/48/power-bi-2021.png" alt="power-bi-2021"
+        src="[https://img.icons8.com/fluency/48/power-bi-2021.png](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css)" alt="power-bi-2021"
     />
      <img 
         align="left" 
