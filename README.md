@@ -33,7 +33,7 @@ Welcome to my profile! I'm passionate about data, technology, and learning. Curr
         title="Pandas"
         width="30" height="30"
         style="padding-right: 10px;"
-        src="[https://img.icons8.com/fluency/48/power-bi-2021.png](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css)" alt="power-bi-2021"
+        src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"
     />
      <img 
         align="left" 
